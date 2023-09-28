@@ -1,0 +1,24 @@
+{
+  "name": "curso-react-next",
+  "version": "1.0.0",
+  "description": "Minha experiência completa em um curso de React com Next.js.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiocasadossites/curso-react-next.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabiocasadossites/curso-react-next/issues"
+  },
+  "homepage": "https://github.com/fabiocasadossites/curso-react-next#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
